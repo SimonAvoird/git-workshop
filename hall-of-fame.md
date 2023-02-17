@@ -3,4 +3,4 @@ Our Heroes
 * Ryan
 * Reinier
 * Simon A
-* Yangsheng
+* Yangsheng is not a hero
