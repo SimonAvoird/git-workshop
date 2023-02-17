@@ -3,5 +3,8 @@ Our Heroes
 * Ryan
 * Reinier
 * Simon A
+* Yangsheng is a king
+* Karst N
+* Yangsheng
 * jaan
 * Yangsheng is not a hero
